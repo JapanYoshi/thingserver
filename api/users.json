@@ -1,0 +1,22 @@
+{
+  "super": {
+    "password": "123",
+    "dob": "1994-12-31",
+    "email": "admin@2gd4.me",
+    "supp": true,
+    "ofGroupAdminsRole": true,
+    "ofGroupAssistantRole": true,
+    "valid": true,
+    "age": 24,
+    "username": "super"
+  },
+  "haley": {
+    "password": "321",
+    "dob": "1999-02-05",
+    "email": "haley@2gd4.me",
+    "supp": false,
+    "ofGroupAdminsRole": true,
+    "ofGroupAssistantRole": true,
+    "age": 20
+  }
+}

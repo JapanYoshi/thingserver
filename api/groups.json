@@ -1,0 +1,26 @@
+{
+  "lobby": {
+    "group": true,
+    "channels": {
+      "lobby1": {
+        "group": false,
+        "users": []
+      }
+    },
+    "groupAdmins": [
+      "haley"
+    ],
+    "groupAssistants": [
+      "haley"
+    ],
+    "users": [
+      "aaaa"
+    ]
+  },
+  "channel1": {
+    "group": false,
+    "users": [
+      ""
+    ]
+  }
+}
